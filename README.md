@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Esteban Berger K.</h1>
+<h1 align="center">Hi 👋, I'm Juan Berger</h1>
 <h3 align="center">Machine Learning and Data Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
