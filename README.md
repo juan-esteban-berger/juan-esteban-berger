@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Berger K.</h1>
 <h3 align="center">Machine Learning and Data Engineering</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Stochastic Processes/Calculus, Data Engineering**
-
-- 👨‍💻 All of my projects are available at [juanberger.com](juanberger.com)
-
-- 📫 How to reach me **jberger8@nd.edu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-esteban-berger-kong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-esteban-berger-kong" height="30" width="40" /></a>
