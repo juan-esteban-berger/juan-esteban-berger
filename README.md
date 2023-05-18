@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Berger K.</h1>
 <h3 align="center">Machine Learning and Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-esteban-berger&label=Profile%20views&color=0e75b6&style=flat" alt="juan-esteban-berger" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan-esteban-berger" alt="juan-esteban-berger" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Stochastic Processes/Calculus, Data Engineering**
 
 - 👨‍💻 All of my projects are available at [juanberger.com](juanberger.com)
