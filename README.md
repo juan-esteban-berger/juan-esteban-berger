@@ -27,17 +27,13 @@
 
 ## Technical Skills 💻
 
-- **Languages**: Python, SQL, R, C++, Java, C#, Bash
+- **Languages**: Python, SQL, R, C++, Java, Bash
 - **Cloud and Big Data**: Google Cloud, AWS, Azure, Apache Hadoop
 - **ETL**: Pandas, Spark, Dask, SSIS, Alteryx
 - **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn, Plotly, Dash
 - **Databases**: MongoDB, HBase, SQL Server, MySQL, Oracle, PostgreSQL
 - **Data Warehouses**: BigQuery, Redshift, Synapse Analytics, Hive
-- **Batch Processing**: Hadoop MapReduce, Elastic Map Reduce, Dataproc, HDInsight
-- **Streaming**: Kafka, AWS Kinesis, Pub/Sub, Event Hubs
-- **Scheduling**: Airflow, Data Factory, Step Functions, Cloud Composer
 - **Web Design**: HTML, CSS, JavaScript
-- **Containerization**: Docker, Kubernetes
 - **Finance**: Bloomberg Terminal, Excel
 
 ## Research 📚
