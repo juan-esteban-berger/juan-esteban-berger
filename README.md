@@ -1,7 +1,5 @@
 # Juan Esteban Berger
 
-![Profile Picture](profile-picture.jpg)
-
 - 📞 (305) 794-4912
 - 📧 [jberger8@nd.edu](mailto:jberger8@nd.edu)
 - 🌐 [LinkedIn](https://linkedin.com/in/juan-esteban-berger)
