@@ -71,6 +71,19 @@
 ![Kafka](https://img.icons8.com/color/48/000000/kafka.png)
 ![Airflow](https://img.icons8.com/color/48/000000/airflow.png)
 
+### Cloud Platforms
+![Amazon Web Services](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
+![Microsoft Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) 
+![Google Cloud Platform](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+
+### Containerization and Orchestration
+![Docker](https://img.icons8.com/color/48/000000/docker.png) 
+![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+
+### Finance
+![Bloomberg Terminal](https://img.icons8.com/ultraviolet/48/000000/bloomberg.png) 
+![Excel](https://img.icons8.com/color/48/000000/microsoft-excel.png)
+
 
 
 ## Quizlets
