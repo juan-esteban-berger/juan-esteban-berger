@@ -34,12 +34,12 @@
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
 
 ### Machine Learning
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
-![Keras](https://img.icons8.com/color/48/000000/keras.png)
-![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
-![XGBoost](https://img.icons8.com/office/48/000000/x.png)
-![SciKit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-![Statsmodels](https://img.icons8.com/office/48/000000/idea.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) 
+![Keras](https://img.icons8.com/fluency/48/000000/keras.png) 
+![PyTorch](https://img.icons8.com/fluency/48/000000/pytorch-logo.png) 
+![XGBoost](https://img.icons8.com/fluency/48/000000/xgboost.png) 
+![SciKit-Learn](https://img.icons8.com/fluency/48/000000/scikit-learn.png) 
+![Statsmodels](https://img.icons8.com/fluency/48/000000/statistics.png)
 
 ### Databases and Data Warehouses
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
