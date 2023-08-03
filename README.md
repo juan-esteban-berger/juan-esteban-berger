@@ -35,7 +35,7 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="48">&nbsp;<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48">&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/1862px-Amazon-Redshift-Logo.svg.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://ww1.freelogovectors.net/wp-content/uploads/2022/03/azure_synapse_analytics_logo_freelogovectors.net_.png" height="48">
 
 ### Data Processing
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48"><img src="https://images.ctfassets.net/dl64kxf2oxn0/6wXbjyC4yYh9ui51alqSt8/ae11137a0c6b1f363966e7f4ec512492/1_U95c0vlgdmnUOxt7in3BRQ.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48">&nbsp;<img src="https://images.ctfassets.net/dl64kxf2oxn0/6wXbjyC4yYh9ui51alqSt8/ae11137a0c6b1f363966e7f4ec512492/1_U95c0vlgdmnUOxt7in3BRQ.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" height="48">
 
 
 ### Dashboards and Visualization
@@ -51,7 +51,7 @@
 <img src="https://img.icons8.com/color/48/000000/docker.png" height="48">&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="48">
 
 ### Finance
-<img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
+<img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
 
 ## Quizlets
   - [Transact SQL](https://quizlet.com/es/816564177/transact-sql-flash-cards/?funnelUUID=e32313e3-3a2f-45dc-9ce4-80af131d2f0b)
