@@ -18,8 +18,8 @@
 ## Research 📚
 
 - **Master's Research Project**
-  - Title: Pricing European Options with Neural Networks and Gradient Boosted Decision Trees
-  - Date: Jan 2023 – May 2023
+  - Title: Pricing European Options with Google AutoML, TensorFlow, and XGBoost
+  - Date: Jan 2023 – July 2023
   - [Link to Paper](https://arxiv.org/abs/2307.00476)
   - [GitHub Repository](https://github.com/juan-esteban-berger/Options_Pricing_AutoML_TensorFlow_XGBoost)
 
