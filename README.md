@@ -29,11 +29,7 @@
 <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"><img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="48" height="48">
 
 ### Machine Learning
-<img src="https://keras.io/img/logo.png" width="48" height="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="48" height="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48">
-<img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"><img src="https://keras.io/img/logo.png" width="48" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="48" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"><img src="https://github.com/statsmodels/statsmodels/blob/main/docs/source/images/statsmodels-logo-v2-no-text.svg" width="48" height="48">
 
 ### Databases and Data Warehouses
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/google-bigquery.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" width="48" height="48"><img src="https://img.icons8.com/office/48/000000/azure-synapse-analytics.png" width="48" height="48">
