@@ -27,7 +27,7 @@
 
 ### Programming Languages
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![R](https://www.r-project.org/logo/Rlogo.svg)
+![R](https://www.r-project.org/logo/Rlogo.svg=48x36))
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
