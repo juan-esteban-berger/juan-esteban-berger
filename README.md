@@ -26,65 +26,63 @@
 ## Technical Skills 🛠️
 
 ### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png)
-<img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="36">
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48">
+<img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/plasticine/48/000000/bash.png" width="48" height="48">
 
 ### Machine Learning
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) 
-![Keras](https://img.icons8.com/fluency/48/000000/keras.png) 
-![PyTorch](https://img.icons8.com/fluency/48/000000/pytorch-logo.png) 
-![XGBoost](https://img.icons8.com/fluency/48/000000/xgboost.png) 
-![SciKit-Learn](https://img.icons8.com/fluency/48/000000/scikit-learn.png) 
-![Statsmodels](https://img.icons8.com/fluency/48/000000/statistics.png)
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48">
+<img src="https://img.icons8.com/fluency/48/000000/keras.png" width="48" height="48">
+<img src="https://img.icons8.com/fluency/48/000000/pytorch-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/fluency/48/000000/xgboost.png" width="48" height="48">
+<img src="https://img.icons8.com/fluency/48/000000/scikit-learn.png" width="48" height="48">
+<img src="https://img.icons8.com/fluency/48/000000/statistics.png" width="48" height="48">
 
 ### Databases and Data Warehouses
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![BigQuery](https://img.icons8.com/color/48/000000/google-bigquery.png)
-![Redshift](https://img.icons8.com/color/48/000000/amazon-redshift.png)
-![Synapse Analytics](https://img.icons8.com/office/48/000000/azure-synapse-analytics.png)
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/google-bigquery.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" width="48" height="48">
+<img src="https://img.icons8.com/office/48/000000/azure-synapse-analytics.png" width="48" height="48">
 
 ### Data Processing
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
-![Dask](https://img.icons8.com/dusk/48/000000/dask.png)
-![Hadoop MapReduce](https://img.icons8.com/color/48/000000/hadoop.png)
-![Alteryx](https://img.icons8.com/color/48/000000/alteryx.png)
+<img src="https://img.icons8.com/color/48/000000/pandas.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/apache-spark.png" width="48" height="48">
+<img src="https://img.icons8.com/dusk/48/000000/dask.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/hadoop.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/alteryx.png" width="48" height="48">
 
 ### Dashboards and Visualization
-![PowerBI](https://img.icons8.com/color/48/000000/power-bi.png)
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
-![Looker Studio](https://img.icons8.com/dusk/48/000000/looker.png)
-![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png)
-![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
-![Plotly](https://img.icons8.com/office/48/000000/plotly.png)
-![Dash](https://img.icons8.com/color/48/000000/dash.png)
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48">
+<img src="https://img.icons8.com/dusk/48/000000/looker.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/seaborn.png" width="48" height="48">
+<img src="https://img.icons8.com/office/48/000000/plotly.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/dash.png" width="48" height="48">
 
 ### Batch, Stream, and Scheduling
-![Beam](https://img.icons8.com/ultraviolet/48/000000/beam.png)
-![Kafka](https://img.icons8.com/color/48/000000/kafka.png)
-![Airflow](https://img.icons8.com/color/48/000000/airflow.png)
+<img src="https://img.icons8.com/ultraviolet/48/000000/beam.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/kafka.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/airflow.png" width="48" height="48">
 
 ### Cloud Platforms
-![Amazon Web Services](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
-![Microsoft Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) 
-![Google Cloud Platform](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="48" height="48">
 
 ### Containerization and Orchestration
-![Docker](https://img.icons8.com/color/48/000000/docker.png) 
-![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+<img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="48" height="48">
 
 ### Finance
-![Bloomberg Terminal](https://img.icons8.com/ultraviolet/48/000000/bloomberg.png) 
-![Excel](https://img.icons8.com/color/48/000000/microsoft-excel.png)
-
-
+<img src="https://img.icons8.com/ultraviolet/48/000000/bloomberg.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" width="48" height="48">
 
 ## Quizlets
   - [Transact SQL](https://quizlet.com/es/816564177/transact-sql-flash-cards/?funnelUUID=e32313e3-3a2f-45dc-9ce4-80af131d2f0b)
