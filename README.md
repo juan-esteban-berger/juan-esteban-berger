@@ -23,5 +23,5 @@
   - [Link to Paper](https://arxiv.org/abs/2307.00476)
   - [GitHub Repository](https://github.com/juan-esteban-berger/Options_Pricing_AutoML_TensorFlow_XGBoost)
 
-## Quizlet
+## Quizlets
   - [Transact SQL](https://quizlet.com/es/816564177/transact-sql-flash-cards/?funnelUUID=e32313e3-3a2f-45dc-9ce4-80af131d2f0b)
