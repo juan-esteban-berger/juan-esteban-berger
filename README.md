@@ -26,7 +26,7 @@
 ## Technical Skills 🛠️
 
 ### Programming Languages
-<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"><img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"><img src="https://img.icons8.com/plasticine/48/000000/bash.png" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"><img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48"><img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" width="48" height="48"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"><img src="https://img.icons8.com/plasticine/48/000000/bash.png" width="48" height="48">
 
 ### Machine Learning
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"><img src="https://img.icons8.com/fluency/48/000000/keras.png" width="48" height="48"><img src="https://img.icons8.com/fluency/48/000000/pytorch-logo.png" width="48" height="48"><img src="https://img.icons8.com/fluency/48/000000/xgboost.png" width="48" height="48"><img src="https://img.icons8.com/fluency/48/000000/scikit-learn.png" width="48" height="48"><img src="https://img.icons8.com/fluency/48/000000/statistics.png" width="48" height="48">
