@@ -27,7 +27,7 @@
 
 ### Programming Languages
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-<img src="(https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" width="48" height="36">
+<img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" width="48" height="36">
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
