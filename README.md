@@ -26,8 +26,7 @@
 ## Technical Skills 🛠️
 
 ### Programming Languages
-<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48">
-<img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48">
+<img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"><img src="https://www.r-project.org/logo/Rlogo.svg" width="48" height="48">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48">
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">
