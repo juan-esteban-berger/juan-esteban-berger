@@ -2,7 +2,7 @@
 
 - **Master of Science in Applied and Computational Mathematics and Statistics**
   - University of Notre Dame, Notre Dame, IN
-  - GPA: 3.5/4.0
+  - GPA: 3.54/4.00
   - Graduation: May 2023
 
 - **Bachelor of Science in Applied and Computational Mathematics and Statistics**
@@ -22,6 +22,56 @@
   - Date: Jan 2023 – May 2023
   - [Link to Paper](https://arxiv.org/abs/2307.00476)
   - [GitHub Repository](https://github.com/juan-esteban-berger/Options_Pricing_AutoML_TensorFlow_XGBoost)
+
+## Technical Skills 🛠️
+
+### Programming Languages
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![R](https://img.icons8.com/color/48/000000/r-programming-language.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
+
+### Machine Learning
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![Keras](https://img.icons8.com/color/48/000000/keras.png)
+![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
+![XGBoost](https://img.icons8.com/office/48/000000/x.png)
+![SciKit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+![Statsmodels](https://img.icons8.com/office/48/000000/idea.png)
+
+### Databases and Data Warehouses
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![BigQuery](https://img.icons8.com/color/48/000000/google-bigquery.png)
+![Redshift](https://img.icons8.com/color/48/000000/amazon-redshift.png)
+![Synapse Analytics](https://img.icons8.com/office/48/000000/azure-synapse-analytics.png)
+
+### Data Processing
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
+![Dask](https://img.icons8.com/dusk/48/000000/dask.png)
+![Hadoop MapReduce](https://img.icons8.com/color/48/000000/hadoop.png)
+![Alteryx](https://img.icons8.com/color/48/000000/alteryx.png)
+
+### Dashboards and Visualization
+![PowerBI](https://img.icons8.com/color/48/000000/power-bi.png)
+![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
+![Looker Studio](https://img.icons8.com/dusk/48/000000/looker.png)
+![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png)
+![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+![Plotly](https://img.icons8.com/office/48/000000/plotly.png)
+![Dash](https://img.icons8.com/color/48/000000/dash.png)
+
+### Batch, Stream, and Scheduling
+![Beam](https://img.icons8.com/ultraviolet/48/000000/beam.png)
+![Kafka](https://img.icons8.com/color/48/000000/kafka.png)
+![Airflow](https://img.icons8.com/color/48/000000/airflow.png)
+
+
 
 ## Quizlets
   - [Transact SQL](https://quizlet.com/es/816564177/transact-sql-flash-cards/?funnelUUID=e32313e3-3a2f-45dc-9ce4-80af131d2f0b)
