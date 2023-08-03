@@ -53,5 +53,5 @@
 ### Finance
 <img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
 
-## Quizlets
+## Quizlets 📝
   - [Transact SQL](https://quizlet.com/es/816564177/transact-sql-flash-cards/?funnelUUID=e32313e3-3a2f-45dc-9ce4-80af131d2f0b)
