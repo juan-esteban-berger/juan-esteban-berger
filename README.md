@@ -52,3 +52,11 @@
 
 ### Finance
 <img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juan-esteban-berger&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juan-esteban-berger&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-esteban-berger&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=juan-esteban-berger&icon=0&color=0)](https://visitcount.itsvg.in)
