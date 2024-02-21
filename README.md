@@ -37,17 +37,5 @@
 ### Data Processing
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48">&nbsp;<img src="https://images.ctfassets.net/dl64kxf2oxn0/6wXbjyC4yYh9ui51alqSt8/ae11137a0c6b1f363966e7f4ec512492/1_U95c0vlgdmnUOxt7in3BRQ.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" height="48">
 
-
-### Dashboards and Visualization
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="48"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="48">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1400/1*QxfkTc6W2v2jpQBo-HBw0g.jpeg" height="48">
-
-### Batch, Stream, and Scheduling
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48">
-
-### Cloud Platforms
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="48">&nbsp;&nbsp;<img src="https://logowik.com/content/uploads/images/google-cloud.jpg" height="48">
-
-### Containerization and Orchestration
-<img src="https://img.icons8.com/color/48/000000/docker.png" height="48">&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="48">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-esteban-berger&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark" alt="juan-esteban-berger" /></p>
+### Containerization, Orchestration, Streaming and Scheduling
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48"><img src="https://img.icons8.com/color/48/000000/docker.png" height="48">&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="48">
