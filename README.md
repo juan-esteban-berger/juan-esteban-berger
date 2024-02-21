@@ -33,8 +33,9 @@
 
 ### Databases
 <img src="mongodb.png" height="48">&nbsp;<img src="sqlserver.png" height="48">&nbsp;&nbsp;<img src="postgresql.png" height="48">
+
 ### Data Warehouses
-<img src="bigquery.png" height="48">&nbsp;<img src="sqlserver.png" height="48">&nbsp;&nbsp;<img src="postgresql.png" height="48">
+<img src="bigquery.png" height="48">&nbsp;&nbsp;&nbsp;<img src="postgresql.png" height="48">
 
 ### Data Processing
 <img src="pandas.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48">&nbsp;<img src="hadoop.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="48">
