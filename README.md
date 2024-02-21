@@ -52,3 +52,9 @@
 
 ### Finance
 <img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-esteban-berger&show_icons=true&locale=en&layout=compact" alt="juan-esteban-berger" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-esteban-berger&show_icons=true&locale=en" alt="juan-esteban-berger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-esteban-berger&" alt="juan-esteban-berger" /></p>
