@@ -42,15 +42,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="48"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" height="48">&nbsp;&nbsp;<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="48">&nbsp;<img src="https://miro.medium.com/v2/resize:fit:1400/1*QxfkTc6W2v2jpQBo-HBw0g.jpeg" height="48">
 
 ### Batch, Stream, and Scheduling
-<img src="https://seeklogo.com/images/A/apache-beam-logo-B3272754F2-seeklogo.com.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="48">&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="48">
 
 ### Cloud Platforms
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="48">&nbsp;&nbsp;<img src="https://logowik.com/content/uploads/images/google-cloud.jpg" height="48">
 
 ### Containerization and Orchestration
 <img src="https://img.icons8.com/color/48/000000/docker.png" height="48">&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="48">
-
-### Finance
-<img src="https://e7.pngegg.com/pngimages/877/245/png-clipart-bloomberg-terminal-computer-icons-mobile-app-app-computer-logo-thumbnail.png" height="48">&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="48">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-esteban-berger&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark" alt="juan-esteban-berger" /></p>
