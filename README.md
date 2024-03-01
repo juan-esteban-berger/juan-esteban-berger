@@ -1,10 +1,10 @@
 ## Certifications 🏅
 <a href="https://google.accredible.com/e8115939-9809-4e5d-91b2-377ffb24355f?record_view=true" target="_blank">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219" alt="Google Cloud Professional Machine Learning Engineer" height="100">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219" alt="Google Cloud Professional Machine Learning Engineer" height="125">
 </a>
 
 <a href="https://www.credential.net/cda3d5ea-b2a2-44cf-8ca1-1b5e5512c184#gs.596223" target="_blank">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679" alt="Google Cloud Professional Data Engineer" height="100">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679" alt="Google Cloud Professional Data Engineer" height="125">
 </a>
 
 
