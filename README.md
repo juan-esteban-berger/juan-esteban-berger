@@ -1,11 +1,5 @@
 ## Certifications 🏅
-<iframe
-  src="https://google.accredible.com/embed/e8115939-9809-4e5d-91b2-377ffb24355f"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+![Google Cloud Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219)
 
 ## Education 🎓
 
