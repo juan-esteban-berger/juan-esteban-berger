@@ -39,4 +39,4 @@
 <img src="bigquery.png" height="48">&nbsp;&nbsp;<img src="hive-removebg-preview.png" height="48">
 
 ### Data Processing
-<img src="pandas.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48">&nbsp;<img src="hadoop.png" height="48">&nbsp;<img src="spark.png" height="48">&nbsp;&nbsp;<img src="https://docs.dask.org/en/stable/_images/dask_horizontal.svg" height="48">
+<img src="pandas.png" height="48">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" height="48">&nbsp;<img src="hadoop.png" height="48">&nbsp;<img src="spark.png" height="48">&nbsp;&nbsp;<img src="dask.png" height="48">
