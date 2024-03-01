@@ -30,7 +30,7 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="48">&nbsp;&nbsp;<img src="https://www.r-project.org/logo/Rlogo.svg" height="48">&nbsp;&nbsp;<img src="clang.png" width="48">&nbsp;<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48">&nbsp;<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" height="48">&nbsp;<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="48">
 
 ### Machine Learning
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="48">&nbsp;&nbsp;<img src="xgboost.png" height="48"><img src="sklearn.png" height="48">&nbsp;&nbsp;<img src="statsmodels.png" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height="48">&nbsp;&nbsp;<img src="xgboost.png" height="48"><img src="sklearn.png" height="48">
 
 ### Databases
 <img src="mongodb.png" height="48">&nbsp;<img src="sqlserver.png" height="48">&nbsp;&nbsp;<img src="postgresql.png" height="48">
