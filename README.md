@@ -1,3 +1,12 @@
+## Certifications 🏅
+<iframe
+  src="https://google.accredible.com/embed/e8115939-9809-4e5d-91b2-377ffb24355f"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ## Education 🎓
 
 - **Master of Science in Applied and Computational Mathematics and Statistics**
