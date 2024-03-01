@@ -1,6 +1,8 @@
 ## Certifications 🏅
-![Google Cloud Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219)
+![Google Cloud Professional Machine Learning Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219)
+![Google Cloud Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679)
 
+<img
 ## Education 🎓
 
 - **Master of Science in Applied and Computational Mathematics and Statistics**
