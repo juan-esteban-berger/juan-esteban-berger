@@ -5,7 +5,6 @@
 <a href="https://www.credential.net/cda3d5ea-b2a2-44cf-8ca1-1b5e5512c184#gs.596223" target="_blank">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679" alt="Google Cloud Professional Data Engineer" height="150">
 </a>
-
 ## Education 🎓
 
 - **Master of Science in Applied and Computational Mathematics and Statistics**
