@@ -8,8 +8,6 @@
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679" alt="Google Cloud Professional Data Engineer" height="150">
 </a>
 
-- Click on the badges to view the certifications.
-
 ## Education 🎓
 
 - **Master of Science in Applied and Computational Mathematics and Statistics**
