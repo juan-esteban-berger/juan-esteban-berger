@@ -1,5 +1,4 @@
 ## Certifications 🏅
-Click on the badges below to view the certifications.
 
 <a href="https://google.accredible.com/e8115939-9809-4e5d-91b2-377ffb24355f?record_view=true" target="_blank">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81864219" alt="Google Cloud Professional Machine Learning Engineer" height="150">
@@ -9,6 +8,7 @@ Click on the badges below to view the certifications.
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80487679" alt="Google Cloud Professional Data Engineer" height="150">
 </a>
 
+Click on the badges to view the certifications.
 
 ## Education 🎓
 
