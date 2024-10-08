@@ -35,7 +35,7 @@ I am a Data Engineer who is passionate about machine learning, mathematics, and 
 ### Graduate Teaching Assistant, University of Notre Dame, IN  
 **Aug 2022 - Dec 2022**  
 - Assisted in teaching *Statistical Learning for Data Science* (graduate-level) and *Introduction to Probability* (undergraduate-level).
-- Graded assignments and provided one-on-one assistance to students on machine learning concepts.
+- Graded assignments and provided assistance to students regarding their questions.
 
 ## 📚 Projects
 
