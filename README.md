@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm a Data Engineer and Machine Learning Practitioner passionate about building scalable data pipelines and applying advanced machine learning models to solve complex business problems. With experience in cloud technologies, data visualization, and automation, I'm always excited to tackle challenging projects that create real impact.
+I am a Data Engineer who is passionate about machine learning, mathematics, and data science. With experience in cloud technologies, data visualization, and automation, I'm always excited to tackle challenging projects that create real impact.
 
 ## 🏆 Certifications
 
