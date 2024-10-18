@@ -55,9 +55,14 @@ Trained models using Google Cloud AutoML, TensorFlow, and XGBoost to price Europ
 - **GitHub**: [Options Pricing Repository](https://github.com/juan-esteban-berger/Options_Pricing_AutoML_TensorFlow_XGBoost)  
 - **Research Paper**: [arXiv](https://arxiv.org/abs/2307.00476)
 
+### CUDA Neural Networks
+Deep neural network implementation from scratch in C++ with CUDA for GPU acceleration. This project focuses on creating a neural network to classify digits using the MNIST dataset.
+- **Docs**: [Project Docs](http://juanberger.com/cuda-networks-docs/)
+- **GitHub**: [CUDA Neural Networks Repository](https://github.com/juan-esteban-berger/cuda_networks)
+
 ## 🛠️ Technical Skills
 
-- **Programming**: Python, SQL
+- **Programming**: Python, SQL, C++
 - **Machine Learning**: TensorFlow, PyTorch, SciKit-Learn, XGBoost
 - **ETL Pipelines**: Pandas, PySpark, Polars, Dask
 - **Databases**: PostgreSQL, SQL Server, MongoDB, BigQuery, Hive
