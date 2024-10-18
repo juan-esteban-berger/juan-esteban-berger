@@ -41,7 +41,7 @@ I am a Data Engineer who is passionate about machine learning, mathematics, and 
 
 ### MicroKeras: Minimal Deep Learning Library  
 A minimal implementation of the Keras Sequential model and Dense Layer classes, built from scratch using Python and NumPy.  
-- **Docs**: [Read the Docs](https://microkeras.readthedocs.io/en/latest)  
+- **Docs**: [microkeras.readthedocs.io/en/latest](https://microkeras.readthedocs.io/en/latest)  
 - **GitHub**: [MicroKeras Repository](https://github.com/juan-esteban-berger/microkeras)  
 - **Colab Demo**: [Open in Colab](https://bit.ly/microkeras)
 
@@ -57,7 +57,7 @@ Trained models using Google Cloud AutoML, TensorFlow, and XGBoost to price Europ
 
 ### CUDA Neural Networks
 Deep neural network implementation from scratch in C++ with CUDA for GPU acceleration. This project focuses on creating a neural network to classify digits using the MNIST dataset.
-- **Docs**: [Project Docs](http://juanberger.com/cuda-networks-docs/)
+- **Docs**: [juanberger.com/cuda-networks-docs/](http://juanberger.com/cuda-networks-docs/)
 - **GitHub**: [CUDA Neural Networks Repository](https://github.com/juan-esteban-berger/cuda_networks)
 
 ## 🛠️ Technical Skills
