@@ -46,9 +46,9 @@ A minimal implementation of the Keras Sequential model and Dense Layer classes, 
 - **Colab Demo**: [Open in Colab](https://bit.ly/microkeras)
 
 ### S&P 500 Data Engineering Project  
-Built data pipelines using Apache Airflow and Docker to store financial data in PostgreSQL. Developed dashboards using Streamlit and Tableau.  
+Built data pipelines using Apache Airflow and Docker to store financial data in PostgreSQL. Developed three data visualization dashboards, one using Streamlit, one using Tableau and and one using React and Django.  
 - **GitHub**: [S&P 500 Dashboard](https://github.com/juan-esteban-berger/spx_dashboard)  
-- **Dashboards**: [Streamlit Dashboard](https://juanberger.com/spx-streamlit) | [Tableau Dashboard](https://juanberger.com/spx-tableau)
+- **Dashboards**: [Streamlit Dashboard](https://juanberger.com/spx-streamlit) | [Tableau Dashboard](https://juanberger.com/spx-tableau) | [React Dashboard](https://juanberger.com/spx-react)
 
 ### Options Pricing Master's Research Project  
 Trained models using Google Cloud AutoML, TensorFlow, and XGBoost to price European options and compared performance against the Black-Scholes model.  
@@ -68,4 +68,5 @@ Deep neural network implementation from scratch in C++ with CUDA for GPU acceler
 - **Databases**: PostgreSQL, SQL Server, MongoDB, BigQuery, Hive
 - **DevOps**: Docker, Kubernetes, Apache Airflow
 - **Data Visualization**: Power BI, Streamlit, Tableau
+- **Web Development**: React, Tailwind CSS, Django, FastAPI
 - **Editor & OS**: Neovim, Linux (Arch, Debian, Ubuntu)
