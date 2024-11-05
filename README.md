@@ -14,8 +14,7 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 ## 🎓 Education
 
 - **M.S. in Applied and Computational Mathematics and Statistics**  
-  University of Notre Dame, IN  
-  GPA: 3.54/4.00  
+  University of Notre Dame, IN
   Graduated: May 2023
 
 - **B.S. in Applied and Computational Mathematics and Statistics**  
