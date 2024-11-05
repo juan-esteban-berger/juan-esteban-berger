@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I am a Data Engineer who is passionate about machine learning, mathematics, and data science. With experience in cloud technologies, data visualization, and automation, I'm always excited to tackle challenging projects that create real impact.
+I am an Applied Mathematics and Statistics MSc graduate who is passionate about machine learning, mathematics, and data science. With experience in cloud technologies, data visualization, and automation, I'm always excited to tackle challenging projects that create real impact.
 
 ## 🏆 Certifications
 
