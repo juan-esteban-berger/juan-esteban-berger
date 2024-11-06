@@ -15,11 +15,14 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 
 - **M.S. in Applied and Computational Mathematics and Statistics**  
   University of Notre Dame, IN
+  
   Graduated: May 2023
 
 - **B.S. in Applied and Computational Mathematics and Statistics**  
   University of Notre Dame, IN  
+
   Minor: Actuarial Science  
+
   Graduated: May 2022
 
 ## 💼 Work Experience
@@ -35,6 +38,7 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 - Assisted with “Introduction to Probability” and “Statistical Learning for Data Science.”
 
 ### Equity Research Intern
+**Jun 2022 - Aug 2022**
 - Analyzed financial statements to identify investment opportunities, creating financial models and Python visualizations to support data-driven decisions.
 - Redesigned Excel-based tools to streamline investment analysis processes, resulting in improved accuracy and faster reporting, and utilized Bloomberg Terminal to gather key financial metrics.
 
