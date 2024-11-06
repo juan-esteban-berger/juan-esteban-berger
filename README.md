@@ -26,15 +26,17 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 
 ### Data Engineer, Grupo Disresa, Guatemala City, Guatemala  
 **Aug 2023 - Present**  
-- Built and maintained ETL data pipelines for the distribution of brands across Central America and the Caribbean, managing over 300,000 SKUs.
-- Developed data visualization dashboards with Power BI and Streamlit, deployed using MicroK8s Kubernetes.
-- Designed and implemented a PostgreSQL data warehouse integrating data from multiple sources (SAP, BigQuery, MongoDB).
-- Created a metadata dashboard to improve data quality, reducing missing values from 35% to under 5%.
+- Built and optimized ETL pipelines for 300,000+ SKUs across 8 brands in 6 countries, ensuring timely and accurate data availability for stakeholders.
+- Established a PostgreSQL data warehouse integrating data from SQL Server, BigQuery, and MongoDB, including data modeling and normalization, to enhance data accessibility and analytics.
+- Created data visualisation dashboards.
 
 ### Graduate Teaching Assistant, University of Notre Dame, IN  
 **Aug 2022 - Dec 2022**  
-- Assisted in teaching *Statistical Learning for Data Science* (graduate-level) and *Introduction to Probability* (undergraduate-level).
-- Graded assignments and provided assistance to students regarding their questions.
+- Assisted with “Introduction to Probability” and “Statistical Learning for Data Science.”
+
+### Equity Research Intern
+- Analyzed financial statements to identify investment opportunities, creating financial models and Python visualizations to support data-driven decisions.
+- Redesigned Excel-based tools to streamline investment analysis processes, resulting in improved accuracy and faster reporting, and utilized Bloomberg Terminal to gather key financial metrics.
 
 ## 📚 Projects
 
@@ -54,18 +56,9 @@ Trained models using Google Cloud AutoML, TensorFlow, and XGBoost to price Europ
 - **GitHub**: [Options Pricing Repository](https://github.com/juan-esteban-berger/Options_Pricing_AutoML_TensorFlow_XGBoost)  
 - **Research Paper**: [arXiv](https://arxiv.org/abs/2307.00476)
 
-### CUDA Neural Networks
-Deep neural network implementation from scratch in C++ with CUDA for GPU acceleration. This project focuses on creating a neural network to classify digits using the MNIST dataset.
-- **Docs**: [juanberger.com/cuda-networks-docs/](http://juanberger.com/cuda-networks-docs/)
-- **GitHub**: [CUDA Neural Networks Repository](https://github.com/juan-esteban-berger/cuda_networks)
-
 ## 🛠️ Technical Skills
-
-- **Programming**: Python, SQL, C++
-- **Machine Learning**: TensorFlow, PyTorch, SciKit-Learn, XGBoost
-- **ETL Pipelines**: Pandas, PySpark, Polars, Dask
-- **Databases**: PostgreSQL, SQL Server, MongoDB, BigQuery, Hive
-- **DevOps**: Docker, Kubernetes, Apache Airflow
-- **Data Visualization**: Power BI, Streamlit, Tableau
-- **Web Development**: React, Tailwind CSS, Django, FastAPI
-- **Editor & OS**: Neovim, Linux (Arch, Debian, Ubuntu)
+- **Programming Languages:** Python, SQL, C++, Java, JavaScript
+- **Libraries / Frameworks:** Pandas, PySpark, SciKit-Learn, PyTorch, Django, React, Tailwind CSS
+- **Databases / Datawarehouses:** PostgreSQL, SQL Server, MongoDB, BigQuery, Hive
+- **Data Visualization:** PowerBI, Tableau, Streamlit, Plotly Express
+- **Tools / Platform:** Docker, Kubernetes, Apache Airflow, Linux, Neovim
