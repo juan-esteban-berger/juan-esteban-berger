@@ -14,16 +14,13 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 ## 🎓 Education
 
 - **M.S. in Applied and Computational Mathematics and Statistics**  
-  University of Notre Dame, IN
-  
-  Graduated: May 2023
+  - University of Notre Dame, IN
+  - Graduated: May 2023
 
 - **B.S. in Applied and Computational Mathematics and Statistics**  
-  University of Notre Dame, IN  
-
-  Minor: Actuarial Science  
-
-  Graduated: May 2022
+  - University of Notre Dame, IN 
+  - Minor: Actuarial Science
+  - Graduated: May 2022
 
 ## 💼 Work Experience
 
