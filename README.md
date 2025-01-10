@@ -25,7 +25,7 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
 ## 💼 Work Experience
 
 ### Junior Data Engineer, TMCI, McLean, VA  
-**Jan 2024 - Present**  
+**Jan 2025 - Present**  
 - Joining the TMCI Data Quality Group to design ETL pipelines, implement data warehousing solutions, and develop data integration processes using Python, SQL, and modern data modeling techniques.
 
 ### Data Engineer, Grupo Disresa, Guatemala City, Guatemala  
