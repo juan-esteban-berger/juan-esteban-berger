@@ -1,6 +1,6 @@
 # Juan Esteban Berger
 
-[LinkedIn](https://linkedin.com/in/juan-berger) | [GitHub](https://github.com/juan-esteban-berger) | [Email](mailto:juanestebanberger@gmail.com)
+[GitHub](https://github.com/juan-esteban-berger) | [Email](mailto:juanestebanberger@gmail.com)
 
 ## 👋 About Me
 
@@ -21,27 +21,6 @@ I am an Applied Mathematics and Statistics MSc graduate who is passionate about 
   - University of Notre Dame, IN 
   - Minor: Actuarial Science
   - Graduated: May 2022
-
-## 💼 Work Experience
-
-### Junior Data Engineer, TMCI, McLean, VA  
-**Jan 2025 - Present**  
-- Joining the TMCI Data Quality Group to design ETL pipelines, implement data warehousing solutions, and develop data integration processes using Python, SQL, and modern data modeling techniques.
-
-### Data Engineer, Grupo Disresa, Guatemala City, Guatemala  
-**Aug 2023 - Dec 2024**  
-- Built and optimized ETL pipelines for 300,000+ SKUs across 8 brands in 6 countries, ensuring timely and accurate data availability for stakeholders.
-- Established a PostgreSQL data warehouse integrating data from SQL Server, BigQuery, and MongoDB, including data modeling and normalization, to enhance data accessibility and analytics.
-- Created data visualisation dashboards.
-
-### Graduate Teaching Assistant, University of Notre Dame, IN  
-**Aug 2022 - Dec 2022**  
-- Assisted with “Introduction to Probability” and “Statistical Learning for Data Science.”
-
-### Equity Research Intern
-**Jun 2022 - Aug 2022**
-- Analyzed financial statements to identify investment opportunities, creating financial models and Python visualizations to support data-driven decisions.
-- Redesigned Excel-based tools to streamline investment analysis processes, resulting in improved accuracy and faster reporting, and utilized Bloomberg Terminal to gather key financial metrics.
 
 ## 📚 Projects
 
